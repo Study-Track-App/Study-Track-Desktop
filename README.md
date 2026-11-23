@@ -1,23 +1,25 @@
+<div align="center">
+
 # Study-Track Desktop
 
-Study smarter with **Study-Track** on macOS and Windows. Plan your studies, track focus time, stay on top of deadlines, and see your progress.
+**Your study space, on your computer.**
 
-**[Download Study-Track](https://study-track.app/downloads)** · [Website](https://study-track.app) · [Help & documentation](https://docs.study-track.app)
+Plan your studies, stay focused, and track your progress with Study-Track for macOS and Windows.
 
-## Downloads
+[**Download Study-Track**](https://study-track.app/downloads) · [Website](https://study-track.app) · [Help](https://docs.study-track.app)
 
-Get the latest macOS and Windows apps from the [official downloads page](https://study-track.app/downloads).
-
-You can also find published installers under [Releases](https://github.com/Study-Track-App/Study-Track-Desktop/releases).
-
-## Updates
-
-Study-Track checks for updates automatically on supported direct-download versions. Apps installed through an app store receive updates through that store.
-
-## Support
-
-Having trouble installing or updating? Visit the [Study-Track documentation](https://docs.study-track.app) for help.
+</div>
 
 ---
 
-© Study-Track. All rights reserved.
+### Desktop releases
+
+This repository hosts official Study-Track desktop installers and update files. Find published versions under [Releases](https://github.com/Study-Track-App/Study-Track-Desktop/releases), or get the app from the [download page](https://study-track.app/downloads).
+
+### Updates
+
+Study-Track supports in-app updates for compatible direct-download versions. Apps installed through an app store are updated through that store.
+
+---
+
+<sub>© 2026 Study-Track · [Proprietary license](LICENSE)</sub>
